@@ -31,7 +31,7 @@ export default function Article18() {
         <h2>Challenges in Scaling</h2>
         <p>
           Niche platforms must balance growth with maintaining authenticity, ensuring they 
-          don't alienate their core audience.
+          dont alienate their core audience.
         </p>
       </article>
     </div>
