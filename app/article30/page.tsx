@@ -32,7 +32,7 @@ export default function Article30() {
 
         <h2>Internet of Things Connectivity</h2>
         <p>
-          5G's ability to connect a massive number of devices simultaneously supports the growth of 
+          5Gs ability to connect a massive number of devices simultaneously supports the growth of 
           smart cities, connected vehicles, and industrial automation, creating new ecosystems of 
           connected devices and services.
         </p>
